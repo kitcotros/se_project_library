@@ -8,4 +8,3 @@ program at TripleTen. It was created using HTML and CSS, based on a design brief
 - Semantic HTML5
 - Flexbox
 - Positioning
-- Vertical stacking with z-index
