@@ -8,3 +8,7 @@ program at TripleTen. It was created using HTML and CSS, based on a design brief
 - Semantic HTML5
 - Flexbox
 - Positioning
+
+## View the project:
+
+[Triple Peaks Library](https://kitcotros.github.io/se_project_library/)
